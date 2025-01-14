@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/my-repo",
+  base: "/kws_lecture_02",
 });
